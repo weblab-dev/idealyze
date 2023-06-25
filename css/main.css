@@ -280,7 +280,7 @@ footer a:not(.nav-link) {
    max-width: 45%;
 }
 
-@media screen and (max-width: 820px) {
+@media screen and (max-width: 900px) {
    .social-media-illustration {
       max-width: 90%;
    }
